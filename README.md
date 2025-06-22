@@ -34,3 +34,17 @@ Quản lý bánh ngọt (CRUD)
 
 Bảo mật: XSS, CSRF, Validation, Auth, Authorization
 ***
+# Sơ đồ hệ thống Website
+## Sơ đồ chức năng
+![image](https://github.com/user-attachments/assets/d0f9b0e1-66ab-4468-b554-25e8a2d23998)
+## Sơ đồ thuật toán
+Đăng nhập
+
+![Screenshot 2025-06-19 111155](https://github.com/user-attachments/assets/39dc9222-15d0-4b30-a014-df7edbd807e6)
+
+Đăng ký
+
+![Screenshot 2025-06-19 113019](https://github.com/user-attachments/assets/15bae9cb-01a9-427f-a261-cf5362343ffb)
+
+Người dùng truy cập web khi đã đăng nhập
+![Screenshot 2025-06-19 115044](https://github.com/user-attachments/assets/20c35c38-4ccf-4c88-8a45-1b988ae175ff)
